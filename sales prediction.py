@@ -20,7 +20,7 @@ dataframe train =pd.read_csv(r'C:\Users\Exam\Desktop\fasalu project\train-data.c
    # extracts numerical value from mileage power and engine columns and converts them to appropriaye data type
    # creates dummy variables for fuel type and transmission
    # concatenates all the processed column to create the final training datasets
- 
+#  fgdgfdgtf
 train data = dataframe_train.copy()
 
 for i in range(0, len(train_data)):
